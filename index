@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head><meta charset="utf-8"
+
+    <h1>Su's photos book </h1>h1{text-align: center;; font-size: 100%;}
+figure{border:2px;solid black;border-radius: 10px;padding: 10px;}
+body {
+background-color: powderblue;
+}
+p {
+color: red;
+}
+body {
+background-color: lightblue;
+}
+
+h1 {
+color: yellow;
+text-align: center;
+}
+
+p {
+font-family: verdana;
+font-size: 20px;
+}
+
+
+/* navigation bar using div tag */
+.nav_div{
+    background-color: brown;
+    width: 100%;
+    height: 60px;
+    padding-right:20px;
+    font-size: 1.2em;
+}
+.nav_div a {
+  float: left;
+  border-right: ridge 2px white;
+  width: 20%;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+.nav_div a:hover{
+  background-color: orange;
+  font-size: 1.22em;
+  height: 20px;
+  img[border-radius: 50%]
+  author{color:green}
+  body {
+  background-color: powderblue;
+}
+p {
+  color: red;
+}
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>
+      <h2>My photos</h2></title>
+  </head>
+  <link rel="stylesheet" href="homework1-4.css"type="text/css">
+>  <div class="nav_div">
+  <a href="https://www.worldjournal.com/5308329/article">紐約懷舊火車回味老時光</a>
+  <a href="https://www.worldjournal.com/5427334/article-">紐約中央中站大鐘閱盡人生百態</a>
+<a href="https://www.worldjournal.com/6621861/article">熊山迎日出</a>
+<a href="https://www.worldjournal.com/5145320/article">天賜母女緣</a>
+
+
+
+  </div>
+
+
+
+  <ol>
+    <h1>紐約懷舊火車回味老時光</h1>
+    <li>紐約市地下鐵系統，自1904年10月開通以來，已逾110年，雖然因為地鐵陳年老舊，髒亂不堪、犯罪頻傳、流浪漢占據車廂等等，令人詬病，但是龐大的紐約地鐵貫穿紐約市，成為紐約客每日仰賴的交通工具，紐約客對地鐵可說是愛恨交織.</li>
+    <li>這些老火車曾經在1932至1977年服務紐約市民，車廂內天花板上的吊扇、老燈泡、座椅、廣告都是原汁原味，一幅1964年至1965年在紐約舉辦世界博覽會的廣告，如見證歷史般的高掛在車廂上。</li>
+    <img src="train.JPG" alt="">
+    For more information, click in the following
+    <a href="https://www.worldjournal.com/5308329/article">《生活》紐約懷舊火車 回味老時光</a>
+
+    <ol>
+      <h1>紐約中央中站大鐘閱盡人生百態</h1>
+      <li>•四面鐘｜中央車站鎮站之寶
+
+
+一進入大中央總站大廳，最吸睛的就是這大鐘了，大鐘高高的位於大廳正中央，詢問處頂端。
+
+這大鐘是由當時頗有名氣設在康州的塞思湯馬斯（Seth Thomas）鐘表工藝公司製作。</li>
+<li>具有獨特造型的大鐘，是由四個凸形面組成，每一凸面都鑲有一面鐘，朝向東南西北四方位，形成四面鐘。鐘的盤面是採用高品質珍貴的乳白色貓眼石（亦稱蛋白石）為石材。
+
+底部的設計是柱狀塔型，由金光閃閃的黃銅製造，高高襯托起四面鐘。四面鐘後方則有四盞燈，燈光透過貓眼石，散發出溫柔的光芒照亮大廳，營造出獨特溫暖又高雅的氣氛</li>
+    </ol>
+    <figure>
+
+    
+  <img src="clock.JPG" alt="">
+
+</figure>
+  For more information , click in the following
+    <a href="https://www.worldjournal.com/5427334/article">生活／紐約中央中站大鐘閱盡人生百態</a>
+
+
+    <ol><h1>熊山迎日出</h1>
+
+      <li>我們四人準時集合，深怕錯過良辰美景。一路上只有我們獨行的車子緩緩延著山路往上爬，寶藍色天空異常平靜地深不可測，是否是黎明前的寧靜呢？
+
+快至山頂時，天空突起變化，上帝拿起了大畫筆，以不同的筆觸及色彩描繪出不同形狀的雲彩，從溫柔婉約的粉紅，逐漸加深到濃郁醉人的豔紅，朝霞的色彩形狀繼續不斷地變化</li>
+
+<li>突然間，一道橙黃色光芒衝破了紅雲，太陽露出耀眼奪目的萬丈光芒，迅速擴大至一個金黃大火球，照亮了山頭，山丘上紅黃交錯的葉子顯露出來，照亮了熊山大橋美麗的橋身，山腳下彎彎曲曲的河流，披上金色的光芒，靜靜地流向大海。</li>
+
+    </ol>
+    <img src="sunraise.JPG" alt=""weight300px>
+    For more information , click in the following
+    <a href="https://www.worldjournal.com/6621861/article">熊山迎日出</a>
+
+<ol>
+  <h1>天賜母女緣</h1>
+  <li>夏姬生母吸毒成癮，生下夏姬後，仍沉迷於毒品，對子女棄之不顧，於是夏姬及一個姊姊二個哥哥，都被兒童福利局認養，四個兄弟姊妹被送往不同的寄養家庭。</li>
+  <li>寄養到收養 夏姬終於有「家」剛開始時夏姬脾氣暴躁，行動怪異，不合群，打人，搶玩具，學習有障礙，很難管教，讓瑪麗亞頭痛不已，曾多次有放棄照顧她的念頭。</li>
+  <li>全家正式收養了夏姬，瑪麗亞視夏姬是上天的賜予，全家感謝及全心的愛著夏姬。性情古怪的夏姬在真摰的愛及包容下，性情漸變，逐漸活潑開朗起來。</li>
+  <p></p>
+  <img src="face.jpg" alt=""  height="400px">
+  For more information , click in the following
+  <a href="https://www.worldjournal.com/5145320/article">《親子》天賜母女緣</a>
+<p>author = Tsae Su</p>
+
+
+
+
+
+  </body>
+</html>
